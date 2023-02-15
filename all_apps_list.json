@@ -1,14 +1,17 @@
-[
-    {
-        "id":1,
-        "name":"M Knowledge - စွယ်စုံကျမ်း",
-        "image_url":"https://github.com/lwinmoehein/companion-apps/blob/main/mknowledge/mknowledge.png",
-        "playstore_url":"https://play.google.com/store/apps/details?id=lab.justonebyte.mknowledge&hl=en&gl=US"
-    },
-    {
-        "id":2,
-        "name":"X Money Tracker",
-        "image_url":"https://raw.githubusercontent.com/lwinmoehein/companion-apps/main/xmoneytracker/xmoneytracker.png",
-        "playstore_url":""
-    }
-]
+{
+    "apps":[
+        {
+            "id":1,
+            "name":"M Knowledge - စွယ်စုံကျမ်း",
+            "imageUrl":"https://github.com/lwinmoehein/companion-apps/blob/main/mknowledge/mknowledge.png",
+            "playstoreUrl":"https://play.google.com/store/apps/details?id=lab.justonebyte.mknowledge&hl=en&gl=US"
+        },
+        {
+            "id":2,
+            "name":"X Money Tracker",
+            "imageUrl":"https://raw.githubusercontent.com/lwinmoehein/companion-apps/main/xmoneytracker/xmoneytracker.png",
+            "playstoreUrl":""
+        }
+    ],
+    "latestAppNumber":2
+}
