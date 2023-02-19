@@ -1,13 +1,13 @@
 {
     "apps":[
         {
-            "id":1,
+            "id":"lab.justonebyte.mknowledge",
             "name":"M Knowledge - စွယ်စုံကျမ်း",
             "imageUrl":"https://raw.githubusercontent.com/lwinmoehein/companion-apps/main/mknowledge/mknowledge.png",
             "playstoreUrl":"https://play.google.com/store/apps/details?id=lab.justonebyte.mknowledge&hl=en&gl=US"
         },
         {
-            "id":2,
+            "id":"lab.justonebyte.moneysubuu",
             "name":"X Money Tracker",
             "imageUrl":"https://raw.githubusercontent.com/lwinmoehein/companion-apps/main/xmoneytracker/xmoneytracker.png",
             "playstoreUrl":""
